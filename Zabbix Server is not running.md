@@ -16,7 +16,7 @@ reboot
 
 Before
 
-![Screenshot 2023-04-21 090841](https://user-images.githubusercontent.com/99697182/233533681-d3b53e8c-22ae-45a7-8933-c5b04092e5e7.png)
+![WhatsApp Image 2023-04-21 at 10 26 43](https://user-images.githubusercontent.com/99697182/233533961-b6fe8ed3-10b0-44a1-9a7d-2a66a70b65d5.jpeg)
 
 
 After
