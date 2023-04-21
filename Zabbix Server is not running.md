@@ -1,4 +1,6 @@
-i got that problem, then i realized a have to disable selinux 
+Zabbix Server Is Not Running
+
+i got that problem, then i realized i have to disable selinux 
 
 ```
 vim /etc/sysconfig/selinux
